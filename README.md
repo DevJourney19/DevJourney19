@@ -1,6 +1,5 @@
 # 💫 About Me:
-¡Hola! Soy Daniel, un apasionado estudiante de Ingeniería de Sistemas de 19 años de Perú. Estoy lleno de energía y motivación para aprender y destacarme en el mundo de la tecnología. Desde que descubrí mi amor por la programación, he dedicado mi tiempo a mejorar mis habilidades y explorar nuevas tecnologías.<br><br>Mi principal objetivo es crecer profesionalmente y contribuir con soluciones innovadoras a proyectos desafiantes. Soy autodidacta, curioso por naturaleza y siempre busco oportunidades para aprender algo nuevo cada día. Me encanta trabajar en equipo, colaborar y compartir conocimientos, porque creo firmemente que juntos podemos lograr más.
-
+Hello! I'm Daniel, a passionate 19-year-old Systems Engineering student from Peru. I’m full of energy and motivation to learn and excel in the world of technology. Since discovering my love for programming, I've dedicated my time to improving my skills and exploring new technologies.<br><br>My main goal is to grow professionally and contribute innovative solutions to challenging projects. I’m self-taught, naturally curious, and always looking for opportunities to learn something new every day. I love working in teams, collaborating, and sharing knowledge because I firmly believe that together we can achieve more.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-castañeda-810056286) 
